@@ -1,0 +1,1 @@
+importScripts('./comlink.js'),console['log'](Comlink);const obj={'counter':0x0,'inc'(){this['counter']++;}};Comlink['expose'](obj);
