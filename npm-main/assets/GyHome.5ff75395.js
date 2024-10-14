@@ -1,1 +1,0 @@
-import{d as a,c as s,o as e,u as d,p as o,a as t,b as p,_ as c}from"./index.d835e86d.js";const u={class:"home-wrapper"},r=[(a=>(o("data-v-ace174a0"),a=a(),t(),a))((()=>p("div",{class:"startbox"},[p("p",null,"一个 支持 Vue 3 、Vue2.7 以及 Vue2 的组件库")],-1)))],l=c(a({__name:"GyHome",setup:a=>(d(),(a,d)=>(e(),s("div",u,r)))}),[["__scopeId","data-v-ace174a0"]]);export{l as default};

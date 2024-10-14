@@ -1,0 +1,1 @@
+import{d as s,c as a,o as e,p,a as o,b as r,_ as t}from"./index.366f75de.js";const d=""+new URL("../group.jpg",import.meta.url).href,m={class:"groups"},c=[(s=>(p("data-v-7c731b39"),s=s(),o(),s))((()=>r("img",{src:d},null,-1)))],i=t(s({__name:"Groups",props:{},emits:[],setup:(s,{emit:p})=>(s,p)=>(e(),a("div",m,c))}),[["__scopeId","data-v-7c731b39"]]);export{i as default};
